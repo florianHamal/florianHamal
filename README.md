@@ -25,6 +25,7 @@ I'm Florian Hamal
 ![image](https://github.com/user-attachments/assets/1b7b5384-bf81-45df-ad66-1c83e48f7b33)
 ![image](https://github.com/user-attachments/assets/96c0a608-4168-4b5f-bc36-5a6d8f6ab2e7)
 ![image](https://github.com/user-attachments/assets/bd807b64-c1a7-499b-9d89-5eba4b8c3bfc)
+![image](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 - Programming Languages
 
