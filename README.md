@@ -53,7 +53,7 @@ I'm Florian Hamal
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SpigotMc-SpigotMc?style=for-the-badge&color=yellow)
 ![Static Badge](https://img.shields.io/badge/BungeeCord-BungeeCord?style=for-the-badge&color=red)
-![Static Badge](https://img.shields.io/badge/CloudNetService-CloudNetService?style=flat-square&logo=icloud&logoColor=blue&logoSize=auto&labelColor=white&color=blue&link=https%3A%2F%2Fcloudnetservice.eu%2Fde%2F)
+![Static Badge](https://img.shields.io/badge/CloudNetService-CloudNetService?style=for-the-badge&logo=icloud&logoColor=blue&logoSize=auto&labelColor=white&color=blue&link=https%3A%2F%2Fcloudnetservice.eu%2Fde%2F)
 
 - Microcontroller
 
