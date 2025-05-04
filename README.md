@@ -4,7 +4,7 @@ I'm Florian Hamal
 
 - 🇦🇹 I`m form austria 
 - 🏫 I graduated HTBLA Kaindorf (Informatics)
-- 🧑 I am 20 years old
+- 🧑 I am 21 years old
 - 👨‍💻 I like programming
 - 🗣️ I speak english and german
 
